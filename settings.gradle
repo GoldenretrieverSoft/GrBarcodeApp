@@ -1,0 +1,2 @@
+rootProject.name='GrBarcode'
+include ':app'
