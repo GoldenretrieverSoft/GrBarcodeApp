@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GrBarcode</string>
+    <string name="action_button">Action Button</string>
+    <string name="setting_button">Setting Button</string>
+    <string name="exit_button">Exit Button</string>
+    <string name="app_title">GrBarcode</string>
 </resources>
