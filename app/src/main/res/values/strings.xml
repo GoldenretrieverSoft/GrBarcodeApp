@@ -4,4 +4,11 @@
     <string name="setting_button">Setting Button</string>
     <string name="exit_button">Exit Button</string>
     <string name="app_title">GrBarcode</string>
+    <string name="title_activity_continuous">ContinuousActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Action Fragment</string>
+    <string name="second_fragment_label">Setting Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
 </resources>
